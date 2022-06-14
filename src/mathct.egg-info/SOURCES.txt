@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/mathct/__init__.py
+src/mathct/main.py
+src/mathct.egg-info/PKG-INFO
+src/mathct.egg-info/SOURCES.txt
+src/mathct.egg-info/dependency_links.txt
+src/mathct.egg-info/top_level.txt
